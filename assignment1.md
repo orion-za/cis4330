@@ -3,7 +3,7 @@ such as Amazon and Netflix, but this doesn't mean they are appropriate for all c
 
 Where microservices *are* appropriate, their advantage over a monolithic code base is that they allow new features to be rolled out without
 breaking the entire system. When you are rolling up multiple updates every day through CD, this is obviously crucial. The key to effectively implementing
-microservice architecture is balancing granularity with complexity. Microservices replresent te most "fine-grained" end of the granularity spectrum and are appopriate
+microservice architecture is balancing granularity with complexity. Microservices represent the most "fine-grained" end of the granularity spectrum and are appopriate
 for programs with extreme agility requirements. "Miniservices" are the middle of the spectrum, and they provide some of the agility of microservices without the disrpuptiveness.
 Unlike microservices, they may implement more than one feature in a single service. Many companies think they need microservices when miniservices would be more appropriate.
 On the "coarse-grained" end of the spectrum are "macroservices", or traditional APIs within a monolithic system. A single application may use multiple levels
