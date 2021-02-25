@@ -1,0 +1,1 @@
+For my case study I want to cover Kubernetes and how it is modernizing the microservices architecture. I have heard a lot about Kubernetes but never really learned what they are, so this is a good oppirtunity for me to learn about a technology that is very popular in industry and give myself a competitive edge.
